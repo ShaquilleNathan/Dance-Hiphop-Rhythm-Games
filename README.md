@@ -37,3 +37,5 @@ A Python-based **rhythm dance game** where players must follow a sequence of dan
 - The sequence must be followed **exactly** to proceed.
 
 ---
+## Notes
+- Please note that this project is a basic one and there's still a room to improve it. Feel free to explore!
