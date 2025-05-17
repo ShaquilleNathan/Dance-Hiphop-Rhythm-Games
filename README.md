@@ -24,6 +24,13 @@ A Python-based **rhythm dance game** where players must follow a sequence of dan
 
 ---
 
+<div align="center">
+  <img src="https://i.postimg.cc/wTYdStLK/2025-05-17-25.png" alt="Demo Image" style="width: 300px; height: auto;" />
+  <img src="https://i.postimg.cc/brXKcMG0/2025-05-17-26.png" alt="Demo Image" style="width: 300px; height: auto;" />
+  <img src="https://i.postimg.cc/dtYz5bcw/2025-05-17-21.png" alt="Demo Image" style="width: 300px; height: auto;" />
+  <img src="https://i.postimg.cc/GmMVh98m/2025-05-17-24.png" alt="Demo Image" style="width: 300px; height: auto;" />
+</div>
+
 ## 🔑 Controls
 
 - Use arrow keys: `↑`, `↓`, `←`, `→` to match the moves.
